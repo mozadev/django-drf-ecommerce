@@ -5,7 +5,7 @@ python-dotenv 1.0.1
 djangorestframework==3.15.2
 pytest==8.3.3
 pytest-django==4.9.0
-
+django-mptt
 #Commands
 
 django-admin startproject drfcommerce
